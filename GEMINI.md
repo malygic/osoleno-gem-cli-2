@@ -25,8 +25,7 @@
   - **Styling:** Čistý CSS s využitím **CSS Custom Properties (proměnných)**. Nepoužívej žádné CSS frameworky jako Bootstrap nebo Tailwind.
   - **Ikonky:** Pro všechny ikonky v projektu **musíš výhradně používat SVG z knihovny `lucide-dev`**. Hledej ikony na `lucide.dev` a vkládej je přímo jako SVG kód do HTML pro snadné stylování.
   - **Přístupnost (Accessibility):** Veškerý generovaný kód musí být sémanticky správný (používej tagy jako `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`) a dodržovat principy WCAG.
-  - **Práce s obrázky:** Během vývoje používej zástupné obrázky ze služby `placehold.co`. Adresa obrázku MUSÍ obsahovat název souboru z `PHOTOGRAPHY_PLAN.md`.
-    - _Příklad:_ `<img src="https://placehold.co/800x600/16263E/FFFFFF?text=home-hero-duck-dish.jpg" alt="[Popis obrázku z PHOTOGRAPHY_PLAN.md]">`
+  - **Práce s obrázky:** Během vývoje používej obrázky ze složky @images.
 
 ## 2. Designový Princip: Přesná Implementace (NEBUĎ KREATIVNÍ NAD RÁMEC PLÁNU!)
 
